@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Siddharth%20Lama&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineering%20%C2%B7%20AI%20Systems%20%C2%B7%20Data%20Platforms&descSize=18&descAlignY=58" alt="Header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:15224d,55:1f6feb,85:39c5cf,100:0d1117&height=230&section=header&text=Siddharth%20Lama&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Engineering%20%C2%B7%20AI%20Systems%20%C2%B7%20Data%20Platforms&descSize=17&descAlignY=56" alt="Header" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=I+build+systems+that+ship.;Route+optimization+platforms.;Multi-agent+LLM+orchestration.;ML+on+CERN+ATLAS+open+data.;Currently%3A+RouteCast" alt="Typing animation" />
 
@@ -9,7 +9,6 @@
 <a href="https://www.linkedin.com/in/sid2005/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/JustSid26/portfolio"><img src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.instagram.com/_ecs_t_asy_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<img src="https://komarev.com/ghpvc/?username=JustSid26&style=for-the-badge&color=1f6feb" alt="Profile views"/>
 
 </div>
 
@@ -21,7 +20,7 @@ Computer Science student in Mumbai who learns by building end-to-end — fronten
 - **Multi-agent LLM systems** — designed an [AI interview coach](https://github.com/JustSid26/mock-interview-ai) where Interviewer, Evaluator, and Coach agents collaborate through a rule-based orchestrator instead of one monolithic prompt.
 - **Data at scale** — built a [Hadoop analytics platform](https://github.com/JustSid26/openData-gov) over 41,000+ records of Indian government open data, with MapReduce jobs feeding interactive dashboards.
 - **Physics meets ML** — trained classifiers for [Higgs Boson signal detection](https://github.com/JustSid26/HiggsBosonDetectionML) on ATLAS open data; CERN-affiliated summer school alum.
-- **Hardware, too** — an [ESP32 rover](https://github.com/JustSid26/mushak) with controller comms, motor drivers, and path visualization.
+- **Hardware, too** — built an [ESP32 + Arduino rover](https://github.com/JustSid26/mushak) for a NASA rover project: wireless controller comms, motor driver control, and encoded path visualization.
 - Daily driver is **Neovim**, with a hand-rolled [Lua config](https://github.com/JustSid26/nvim-config).
 
 ## Stack
@@ -52,7 +51,7 @@ Computer Science student in Mumbai who learns by building end-to-end — fronten
 | [**Smart Contract Validator**](https://github.com/JustSid26/SmartContract) | Rule-based validation layer with invariant checks for auditing and executing on-chain agreement logic | TypeScript |
 | [**Ecommerce**](https://github.com/JustSid26/ecommerce) | Full-stack store with JWT auth — Spring Boot and MySQL backend, React 19 and Tailwind frontend | Java 17 · Spring Boot · React · Vite |
 | [**Higgs Boson Detection**](https://github.com/JustSid26/HiggsBosonDetectionML) | ML classification of Higgs Boson signal events against background noise on ATLAS open data | Python · Jupyter · scikit-learn |
-| [**Mushak**](https://github.com/JustSid26/mushak) | ESP32 rover — controller-to-rover comms, motor control, encoded path visualization | ESP32 · Arduino · Python |
+| [**Mushak**](https://github.com/JustSid26/mushak) | Rover built for a NASA rover project — controller-to-rover comms, motor control, encoded path visualization | ESP32 · Arduino · Python |
 
 ## Activity
 
@@ -80,7 +79,5 @@ Computer Science student in Mumbai who learns by building end-to-end — fronten
 > *"We can only see a short distance ahead, but we can see plenty there that needs to be done."*
 >
 > — Alan Turing, *Computing Machinery and Intelligence* (1950)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer" alt="Footer" width="100%"/>
 
 </div>

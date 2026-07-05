@@ -57,8 +57,8 @@ Computer Science student in Mumbai who learns by building end-to-end — fronten
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JustSid26&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustSid26&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JustSid26&theme=github_dark" alt="GitHub stats"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JustSid26&theme=github_dark" alt="Top languages"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JustSid26&theme=github-dark-blue&hide_border=true" alt="GitHub streak"/>
 

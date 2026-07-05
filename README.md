@@ -65,9 +65,9 @@ Computer Science student in Mumbai who learns by building end-to-end — fronten
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=JustSid26&theme=github-compact&hide_border=true&area=true" alt="Contribution graph"/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JustSid26/JustSid26/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JustSid26/JustSid26/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/JustSid26/JustSid26/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JustSid26/JustSid26/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JustSid26/JustSid26/output/pacman-contribution-graph.svg" />
+  <img alt="Pacman contribution animation" src="https://raw.githubusercontent.com/JustSid26/JustSid26/output/pacman-contribution-graph.svg" />
 </picture>
 
 </div>

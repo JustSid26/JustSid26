@@ -1,0 +1,24 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Base metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN || github.token }}
+          user: JustSid26
+          filename: metrics.svg
+          base: header, activity, community, repositories
+          config_display: large
+          config_timezone: Asia/Kolkata
+          committer_message: "chore: update metrics"
